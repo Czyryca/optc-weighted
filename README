@@ -1,0 +1,9 @@
+Calculates weighted stats for optc fully evolved global chars.
+To run:
+1.  Run "sh update.sh" in a terminal window
+    Alternatively, save the files evolutions.js and units.js from the db:
+    http://optc-db.github.io/common/data/evolutions.js
+    http://optc-db.github.io/common/data/units.js
+
+2. Run "python weighted.py"
+
