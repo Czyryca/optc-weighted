@@ -13,7 +13,7 @@ def main():
     evo_file = open('evolutions.js','r')
     pattern_no_evo = re.compile('\d+:')    
     unevod_ids = [str(line).split(':')[0] for line in pattern_no_evo.findall(evo_file.read())]
-    evod_ids = [ id for id in range(1,1250) if str(id) not in unevod_ids ]
+    evod_ids = [ id for id in range(1,1200) if str(id) not in unevod_ids ]
     #TODO: fix this range!!
 
     #get intersection of lists
@@ -34,13 +34,17 @@ def main():
             hp = int(stats[-7])
             atk = int(stats[-6])
             rcv = int(stats[-5])
-        name,weighted=info.group(1),hp/5+atk/2+rcv
+        try:
+            name,weighted=info.group(1),hp/5+atk/2+rcv
+        except:
+            print 'unable to parse id: '+str(id)
+
         characters[name] = weighted
 
     output_file = open('output.txt','w')
     for (key,value) in reversed(sorted(characters.items(), key = operator.itemgetter(1))):
         output_file.write(key+': '+str(value)+'\n')
-    print [key+': '+str(value) for (key, value) in reversed(sorted(characters.items(), key = operator.itemgetter(1)))]
+    #print [key+': '+str(value) for (key, value) in reversed(sorted(characters.items(), key = operator.itemgetter(1)))]
 
 if __name__ == "__main__":
     main()

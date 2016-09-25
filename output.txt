@@ -1,64 +1,124 @@
+"Issho": 1776
 "Portgas D. Ace, Black Clad Division Commander": 1760
+"Sabo the Revolutionary": 1759
 "Marco the Phoenix Whitebeard 1st Div. Commander": 1758
+"Bartolomeo the Cannibal": 1757
+"Rob Lucci, CP9's Strongest": 1756
+"Monkey D. Luffy, A Vow in the Great Age of Pirates - Pirate King": 1754
 "Monkey D. Luffy, Voyage Dream: Pirate King": 1754
+"Sir Crocodile: Logia, Ex-Warlord of the Sea": 1751
 "Dark King Rayleigh": 1750
 "Boa Hancock Warlord of the Sea": 1747
 "Shanks, Black Clad Emperor": 1746
 "Sengoku the Buddha": 1743
+"Heavenly Yaksha Donquixote Doflamingo": 1730
 "Whitebeard": 1695
 "Hawk Eyes Mihawk, World's Strongest Swordsman": 1645
 "Emporio Ivankov Queen of Kamabakka Queendom": 1473
 "Eneru, Lightning Incarnate, 200,000,000 Volt Amaru": 1473
 "Donquixote Doflamingo, Warlord of the Sea": 1467
+"Aokiji, Ice Man": 1461
+"Sanji, the Cook of Love Who Laid His Manliness on the Line": 1460
+"Don Chinjao, Flower Country Gang": 1460
 "Little Oars Jr., Charging!": 1459
 "Gecko Moria Warlord of the Sea": 1458
+"Don Sai, Flower Country Gang": 1454
+"Zephyr NEO Navy Commander": 1454
+"Roronoa Zoro, Pupil of the World's Strongest Swordsman": 1451
+"Kyros, Former Captain of the Riku Royal Army": 1451
+"Hajrudin, Pirate Mercenary": 1446
+"Vergo, Donquixote Pirates": 1445
+"Monkey D. Luffy, Crew's Promise: 3D2Y": 1445
+"Heracles-un, Hero of the Forest": 1442
+"Blue Gilly, Jao Kun Do Martial Artist": 1437
 "Sir Crocodile Warlord of the Sea": 1436
+"Funk Brothers, Mogaro Kingdom Assassins": 1435
+"Master Caesar": 1434
+"Leo, Captain of the Tontatta Warriors": 1432
 "Trafalgar Law, ROOM": 1430
+"Cyborg Franky, Sacred Beast of Baldimore": 1430
 "Heavy Specialist Curiel": 1425
+"Tyrant Bartholomew Kuma, Government Human Weapon": 1425
+"Kaku, CP9's Strongest": 1422
 "White Chase Smoker": 1422
+"Señor Pink, Donquixote Pirates": 1422
 "Captain Kid": 1421
 "Blackbeard": 1420
+"Trebol, Donquixote Pirates": 1417
+"Jabra, CP9's Strongest": 1415
 "DeCalvan Brothers, Brothers' Bond": 1415
 "Flower Sword Vista": 1415
 "Roar of the Sea Scratchmen Apoo": 1415
 "Fossa the Blazing Katana": 1412
+"Baby 5, Donquixote Pirates": 1410
 "Bartholomew Kuma Warlord of the Sea": 1410
+"Abdullah and Jeet, Former Bounty Hunters": 1409
 "Hawk Eyes Mihawk": 1409
 "Jimbe Warlord of the Sea": 1407
+"Lao G., Donquixote Pirates": 1407
 "Garp the Fist": 1405
+"Emporio Ivankov, Revolutionary Army": 1401
+"Brook, BONE to be Wild!!!": 1398
 "Capone Gang Bege": 1398
 "Twin-Blade Thatch": 1398
 "Basil Hawkins the Magician": 1398
+"Hack, Revolutionary Army": 1398
+"Buffalo, Donquixote Pirates": 1397
 "Red Flag X Drake": 1397
 "Morning Star Rakuyo": 1397
 "One-Hit Namule": 1392
 "Blamenco the Mallet": 1391
 "Marco the Phoenix": 1391
+"Blueno, CP9's Strongest": 1390
 "Bohemian Knight Doma": 1388
+"Duval, Rosy Life Riders Leader": 1385
 "Diamond Jozu": 1384
+"Koala the Revolutionary": 1384
+"Ricky, Mysterious Gladiator": 1382
 "Bepo the Martial Artist": 1381
+"Nico Robin, Light of the Revolution": 1380
+"Nami, Weatheria's Cat Burglar": 1376
+"Usopp, Swindling Forest's Resolute Warrior": 1370
 "Portgas D. Ace Flame Mirror": 1366
+"Giolla, Donquixote Pirates": 1364
 "Flintlock Pistols Izo": 1363
+"Fukuro, CP9's Strongest": 1361
+"Chopper Mask, the Hero Who Protects the World": 1360
 "Big Eater Jewelry Bonney": 1360
+"Kumadori, CP9's Strongest": 1359
+"Monet, Donquixote Pirates": 1359
 "Ice Witch Whitey Bay": 1350
 "Monkey D. Luffy, Gear Third": 1348
 "Red-Haired Shanks": 1335
+"Kalifa, CP9's Strongest": 1331
+"Sugar, Donquixote Pirates": 1308
+"Inazuma the Revolutionary": 1307
 "Enraged Arlong Shark On Tooth": 1293
 "Mad Monk Urouge": 1285
+"Arlong, Sun Pirates": 1269
 "Kami Eneru": 1269
 "Roronoa Zoro, Lion's Song": 1262
+"Dalmatian, Marine Vice Admiral": 1260
 "Sir Crocodile": 1260
 "Roronoa Zoro Ashura Ichibugin": 1256
 "Franky Voyage Dream: Ship of the Seven Seas": 1255
 "Don Krieg Poison Gas Bomb MH5": 1246
 "Humming Swordsman Brook": 1243
+"Momonga, Marine Vice Admiral": 1241
+"Ganfor, Sky Knight": 1241
 "Nico Robin": 1238
 "Monkey D. Luffy Gear 2": 1237
+"Breed, Pet-Pet Fruit User": 1235
 "Rob Lucci: Six Powers, Cipher Pol No. 9": 1234
+"Lucci: Beastman, Cat-Cat Fruit, Model: Leopard": 1231
 "Trafalgar Law Holy Night Nobleman": 1228
+"Onigumo, Marine Vice Admiral": 1228
 "Paulie Dock One Foreman/Mast Specialist": 1226
 "Kuro of a Hundred Plans": 1224
 "Rob Lucci Dock One Sawyer, Treenail Specialist": 1222
+"Legendary Shipwright Tom, Tom's Workers": 1221
+"Calgara, Great Shandia Warrior": 1220
+"Kaku: Beastman, Ox-Ox Fruit, Model: Giraffe": 1219
 "Petty Officer Coby": 1217
 "Absalom of the Graveyard": 1216
 "Usopp Voyage Dream: Brave Sea Warrior": 1215
@@ -68,37 +128,61 @@
 "Nami Voyage Dream: World Map": 1208
 "Brook Voyage Dream: Promised Meeting": 1206
 "Black Cage Hina": 1206
+"Shanks, Roger Pirates": 1206
+"Franky, Straw Hat Pirates": 1205
 "Sanji Diable Jambe Flambe": 1205
 "Dismantler Franky": 1204
 "Sanji Voyage Dream: All Blue": 1204
 "Beautiful Secretary Kalifa": 1204
 "Sir Crocodile, the Strongest Prisoner, Ex-Seven Warlords Member": 1203
+"Red-Leg Zeff, Cook Pirates Captain": 1202
 "Nico Robin Voyage Dream: 100-Year Void": 1202
 "Great Advisor Tsuru": 1201
 "Iron-Mace Alvida Smooth-Smooth Fruit": 1201
+"Count Butler (Ruling Power)": 1200
 "Kaku: Six Powers, Cipher Pol No. 9": 1200
 "Monkey D. Luffy, Davy Back Fight: Combat": 1200
 "Tony Tony Chopper, Voyage Dream: Great Doctor": 1198
 "Jewelry Bonney Ravenous Greedy Santa": 1198
 "Sanji Candy": 1192
+"Ship Cutter T-Bone, Marine Captain": 1190
 "Sergeant Helmeppo": 1189
+"Sadie, Impel Down Chief Jailer": 1187
 "Brook Cherry Blossom Melody": 1185
 "Tashigi Marine Officer: Flower of Justice": 1183
 "Nami Thunderbolt Tempo": 1183
+"Empress in Love Hancock, Wedding": 1182
 "Nefertari Vivi Voyage Dream: Queen of the Pirates": 1180
+"Mansherry, Princess of the Tontatta Tribe": 1180
 "Tashigi Navy HQ Ensign": 1180
+"Master Escape Artist Bentham, Mr. 2 Bon Clay": 1178
 "Laboon (Luffy's drawing)": 1175
+"Blueno: Six Powers, Cipher Pol No. 9": 1174
+"Nico Robin, Straw Hat Pirates": 1169
+"Mont Blanc Noland, Lvneel Kingdom Explorer": 1167
 "Monkey D. Luffy Gum-Gum Bazooka: Supremacy": 1166
+"Kalifa: Six Powers, Cipher Pol No. 9": 1165
+"Goddess in White Nami, Wedding": 1162
+"Ice Cream-Loving Robin, Chocolate Ice Cream": 1162
 "Roronoa Zoro Three Thousand Worlds: The Final Stroke": 1161
+"Ice Cream-Loving Perona, Strawberry Ice Cream": 1160
+"Domino, Impel Down Vice Head Jailer": 1156
+"Camie, Takoyaki Shop Clerk": 1150
 "Ghost Princess Perona - Sweets": 1149
 "Wapol House": 1147
+"Beautiful and Talented Woman Wedding Robin": 1147
+"Ice Cream-Loving Nami, Lemon Ice Cream": 1146
 "Ghost Princess Perona": 1144
 "Nico Robin Cherry Blossoms in Full Bloom": 1142
+"Fancy Princess Wedding Perona": 1140
+"Brook, Straw Hat Pirates": 1137
 "Nami Blossom Climate": 1136
 "Caroline": 1135
+"Perona, Giant Ghost Princess": 1132
 "Kraken Monster of the North": 1128
 "Sogeking": 1125
 "Maelstrom Spider Squard": 1118
+"Wanze, Cipher Pol No. 7": 1110
 "Franky, Frankenstein": 1110
 "Monkey D. Luffy, Halloween Monster": 1109
 "Nami Mirage Tempo: The Heavens": 1107
@@ -111,15 +195,25 @@
 "Sanji Parage Shot: The Storm": 1070
 "Brook, Cowardly Skeleton": 1068
 "Nico Robin, Devil Girl": 1064
+"Slim-up Wapol": 1064
+"Loveseeking Lola, Thriller Bark Bride": 1054
 "Tony Tony Chopper, Lil' Vampire": 1048
 "Nami, Happiness Punch": 1040
 "Massacre Soldier Killer": 1038
 "Nami, Jackie 'o Lantern": 1033
 "Princess Vivi": 1031
+"Strawberry, Marine Vice Admiral": 1025
 "Usopp, Lying Wolf": 1024
+"Hatchan, Takoyaki Shop Manager": 988
+"Chopper's Snow Day": 984
+"Gecko Moria, Thriller Bark Ruler": 976
+"Jabra: Six Powers, Cipher Pol No. 9": 969
+"Buggy, Roger Pirates": 964
 "Princess Vivi - Love": 951
 "Mr. 1 Human Sword": 912
 "Daz Bones, Convict, Mr. 1": 902
+"Kumadori: Six Powers, Cipher Pol No. 9": 900
+"Fukuro: Six Powers, Cipher Pol No. 9": 892
 "Mr. 4 and Lassoo the Dog-Gun": 886
 "Shura": 882
 "Broggy": 880
@@ -131,18 +225,23 @@
 "Wyper, Descendant of Great Warrior Calgara": 876
 "Mr. 5 Breeze Breath Bomb": 875
 "Chaka, The guardian jackal of Alabasta.": 873
+"Kung Fu Dugong, Sea Animal Pirates": 872
 "Sabo Mt. Corvo's Brothers 3, Cup of Sworn Brotherhood": 870
+"Tony Tony Chopper, Animal King": 869
 "Mr. 3 Extra Special Candelabra": 863
 "Gedatsu": 863
 "Chessmarimo": 863
+"Absalom of the Graveyard, Thriller Bark Demon": 862
 "Miss Merry Christmas Human Mole": 858
 "The Silver Fox Foxy": 857
 "Miss Valentine 10,000 Kilo Guillotine": 855
+"General Hotdog": 855
 "Escapee Morgan": 855
 "Miss Doublefinger Human Spike": 854
 "Koza, Rebel Leader": 853
 "Pell, The guardian falcon of Alabasta.": 850
 "Buggy the Clown": 846
+"President Heaby": 846
 "Elizabeth": 845
 "Satori": 844
 "Mr. 2 Bon Clay Bombardier Arabesque": 843
@@ -152,35 +251,66 @@
 "Gin the Man-Demon": 835
 "Zambai": 835
 "Dalton Bison": 831
+"Octopus Boxer, Sea Animal Pirates": 828
+"Sea Lapahn, Sea Animal Pirates": 825
 "General Zombie": 824
+"Shu": 822
+"Nero, Cipher Pol No. 9": 821
+"Usopp-un, Hercules' Student": 819
 "Crocus, Twin Cape Lighthouse Keeper": 818
+"Berry Good": 815
+"Doctor Hogback, Thriller Bark Demon": 812
 "Big Bun": 807
 "Miss Goldenweek Colors Trap: Calming Green": 807
+"Ain NEO Navy Vice Admiral": 805
 "Tilestone": 805
 "Six-Sword Hachi": 804
 "Bellmere, Nami and Nojiko's Mother": 803
 "Rainbow Striped Dragon": 800
+"Knuckle Major, Navy HQ": 798
+"Kashii": 796
 "Lapin Adult": 795
+"Bazooka Major, Navy HQ": 793
 "Demolisher Gunner": 792
+"Righteous Juror": 792
+"Koza, Sand-Sand Band Leader": 792
+"Cutty Flam, Tom's Workers": 789
+"Oimo": 789
 "Miss Monday Superhuman Brass Knuckles": 789
 "Momonga": 788
 "Demolisher Axeman": 785
-"Braham": 784
 "Kumacy": 784
+"Braham": 784
+"Galdino the Criminal, Mr. 3": 782
 "Genbou": 780
-"Kamakiri": 779
 "Onigumo": 779
+"Kamakiri": 779
 "Demolisher Spearman": 778
+"Nefeltari Cobra, King of Alabasta Kingdom": 776
 "Skilled Gunner": 775
+"Saber Major, Navy HQ": 773
 "Nojiko, Nami's Sister": 770
 "Double Ironfist Fullbody": 769
+"Iceburg, Tom's Workers": 769
+"Jerry, Cipher Pol No. 6": 768
+"Naginata Major, Navy HQ": 763
+"Conis, Skypiea Girl": 763
 "Lulu": 761
+"Oars, Special Zombie": 760
 "Usopp, Davy Back Fight: Cornerman": 759
 "Tony Tony Chopper, Davy Back Fight: Mask": 756
 "Kaya, A rich young girl from Syrup Village": 756
+"Basilisk": 755
+"Three-Headed Baskerville": 750
 "Nola, Giant Snake": 748
 "Double Crosser Django": 748
+"Blazing General Zombie": 747
+"Powerful General Zombie": 746
+"Sneaky General Zombie": 746
+"Rifle Major, Navy HQ": 743
+"Nefeltari Vivi, Sand-Sand Band Sub-Leader": 740
 "Mr. 9 Hot Blooded Bat": 737
+"Watchdog Unit of the Law": 737
 "Dancing Django": 736
 "Street Punk: Nails, Black Bounty Hunter": 727
 "Street Punk: Nails, Yellow Bounty Hunter": 721
@@ -191,16 +321,20 @@
 "Street Punk: Gatling, Black Bounty Hunter": 708
 "Tony Tony Chopper Arm Point": 705
 "Mr. 8 Igarappapa": 703
+"Minokoala": 701
 "Street Punk: Blade, Red Bounty Hunter": 698
 "Street Punk: Blade, Blue Bounty Hunter": 697
+"Manticore": 696
 "Kuroobi": 695
 "Mr. 13 & Ms. Friday The Unluckies": 695
 "Chef Zeff": 694
 "Street Punk: Bullet, Green Bounty Hunter": 692
+"Kuroobi, Sun Pirates": 688
 "Bazooka Ensign Navy HQ": 688
 "Street Punk: Bullet, Yellow Bounty Hunter": 687
 "Female Giant Imperial Warrior Green Pirates": 679
 "Giant Imperial Slasher Red Pirates": 678
+"Gangster Patty": 672
 "Giant Imperial Striker Black Pirates": 672
 "Giant Imperial Fighter Yellow Pirates": 668
 "Tony Tony Chopper Heavy Point": 668
@@ -211,8 +345,10 @@
 "Green Striker Elite, Skypiea Enforcer": 659
 "Armed Striker Unit Black Pirates": 658
 "Blue Striker Elite, Skypiea Enforcer": 657
+"Gangster Carne": 657
 "Red Nomad Adept, Shandian Warrior": 655
 "Choo": 655
+"Choo, Sun Pirates": 654
 "Mozu": 653
 "Tony Tony Chopper Guard Point": 652
 "Kung Fu Dugong Faithful Apprentice": 652
@@ -225,6 +361,7 @@
 "Yama": 646
 "Blue Nomad Adept, Shandian Warrior": 646
 "Masira": 646
+"Pappagu": 645
 "Dog Penguin": 645
 "Kiwi": 642
 "Jigoro of the Wind": 641
@@ -242,11 +379,19 @@
 "Montblanc Cricket": 627
 "Armed Slasher Unit Red Pirates": 626
 "Armed Fighter Unit Yellow Pirates": 626
+"Taralan": 625
+"Robson": 624
 "Armed Slasher Unit Yellow Pirates": 623
+"Cerberus": 620
 "Capote": 617
+"Brainy Wild Zombie": 614
+"Risky Brothers": 612
 "Shoujou": 610
+"Tricky Wild Zombie": 610
 "Banana Gator": 606
+"Pierre": 606
 "Rex": 604
+"Heartful Wild Zombie": 604
 "Chopper Man": 600
 "Neptunian Squid": 600
 "Momoo": 600
@@ -256,8 +401,10 @@
 "Yellow Hunter Adept, Shandian Warrior": 594
 "Black White Beret Captain, Skypiea Guard": 593
 "Triceratops": 593
+"Bear Skin Rug": 592
 "Yellow White Beret Captain, Skypiea Guard": 583
 "Tony Tony Chopper Post-Rampage": 582
+"Minorhinoceros": 581
 "Brontosaurus": 578
 "Porche": 576
 "Armed Shooter Unit Yellow Pirates": 575
@@ -277,22 +424,27 @@
 "Eneru's Elect: Yellow Guard, Skypiea Enforcer": 539
 "Eneru's Elect: Blue Guard, Skypiea Enforcer": 537
 "Butchie": 537
+"Strong Soldier Zombie": 536
 "Saber Billions Baroque Works": 533
+"Hate-Filled Soldier Zombie": 533
 "Halberd Billions Baroque Works": 532
 "Knuckle Ensign Navy HQ": 531
 "Fighter Group Leader": 528
+"Crafty Soldier Zombie": 528
 "Sea Cat": 526
+"Speedy Soldier Zombie": 526
 "Cabin Boy Helmeppo": 526
 "Siam": 526
 "Saber Ensign Navy HQ": 524
 "Halberd Ensign Navy HQ": 524
+"Egotistical Soldier Zombie": 524
 "Cabaji the Acrobat": 523
 "Carne": 513
 "Pistol Billions Baroque Works": 511
 "Patty": 501
 "Crimson Hime Turtle": 500
-"Onyx Hime Turtle": 500
 "Jade Hime Turtle": 500
+"Onyx Hime Turtle": 500
 "Azure Hime Turtle": 500
 "Amber Hime Turtle": 500
 "Shooter Group Leader": 478
@@ -324,6 +476,7 @@
 "Karate Fishman Arlong crewmember": 354
 "Sword Fishman Arlong crewmember": 353
 "Spear Fishman Arlong crewmember": 352
+"Gecko Moria, Shadows' Asgard": 352
 "Pistol Fishman Arlong crewmember": 346
 "Nezumi": 299
 "Blue Plated Lobster": 285
@@ -331,6 +484,7 @@
 "Green Plated Lobster": 285
 "Black Plated Lobster": 285
 "Red Plated Lobster": 285
+"Horo Horo Ghost": 265
 "Bearded Bodyguard": 259
 "Bodyguard, ‘Sunglasses'": 254
 "Blue Elder Turtle": 245
@@ -338,6 +492,7 @@
 "Yellow Elder Turtle": 245
 "Black Elder Turtle": 245
 "Red Elder Turtle": 245
+"Spandam": 238
 "Blue Pirate Penguin": 196
 "Yellow Pirate Penguin": 196
 "Black Pirate Penguin": 196
