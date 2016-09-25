@@ -36,6 +36,10 @@ def main():
             rcv = int(stats[-5])
         name,weighted=info.group(1),hp/5+atk/2+rcv
         characters[name] = weighted
+
+    output_file = open('output.txt','w')
+    for (key,value) in reversed(sorted(characters.items(), key = operator.itemgetter(1))):
+        output_file.write(key+': '+str(value)+'\n')
     print [key+': '+str(value) for (key, value) in reversed(sorted(characters.items(), key = operator.itemgetter(1)))]
 
 if __name__ == "__main__":
